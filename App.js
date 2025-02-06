@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           THIS IS A MAIN REPOSITORY
+          This is a sub repository
         </p>
         <a
           className="App-link"
